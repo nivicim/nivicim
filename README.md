@@ -46,16 +46,10 @@
 
 ###
 
+
 <img align="left" height="250" src="https://i.imgur.com/w0cesx7.gif"  />
 
 ###
 
-<p align="left">🧠 Currently Studying<br>.NET & C# for Backend Development<br>Blazor for Interactive Web UIs<br>Entity Framework Core for Data Access<br>Running .NET Applications on Linux (Debian) and Windows<br>🛠️ Currently Working On<br>Applying my .NET skills to build a practical project from scratch.<br>Implementing a complete authentication and authorization flow.<br>Connecting the application to a database using Entity Framework Core.<br>Containerizing the application with Docker for a consistent Linux (Debian) environment.</p>
+<h3 align="left">🧠 Currently Studying<br>.NET & C# for Backend Development<br>Blazor for Interactive Web UIs<br>Entity Framework Core for Data Access<br>Running .NET Applications on Linux (Debian) and Windows<br>🛠️ Currently Working On<br>Applying my .NET skills to build a practical project from scratch.<br>Implementing a complete authentication and authorization flow.<br>Connecting the application to a database using Entity Framework Core.<br>Containerizing the application with Docker for a consistent Linux environment.</h4>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nivicim/nivicim/output/snake.svg" alt="Snake animation" />
-
-###
